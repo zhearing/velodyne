@@ -1,0 +1,10 @@
+*.pcap
+*.pyc
+*.tar.gz
+*~
+TAGS
+build/
+bin/
+lib/
+msg_gen/
+velodyne_msgs/src/
